@@ -1,3 +1,3 @@
 # Domain Adaptation for Semantic Image Segmentation
 
-### :arrow_forward: [Task Description](task.ipynb)
+Run the [main file](Topic_1.ipynb) step by step.
